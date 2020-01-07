@@ -24,9 +24,10 @@ const DogsPage = () => {
 
   return (
     <Layout>
-
+      <div>
+      <div>
       <h1>Dogs Page</h1>
-
+      </div>
       <ol>
         {data.allMarkdownRemark.edges.map((edge) => {
           return (
@@ -41,7 +42,7 @@ const DogsPage = () => {
           )
         })}
       </ol>
-
+      </div>
     </Layout>
   )
 }
