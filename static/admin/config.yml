@@ -18,7 +18,6 @@ collections:
     folder: dogs
     create: true
     fields:
-      - { name: path, label: Path }
       - { name: name, label: Name }
       - { name: age, label: Age, widget: number }
       - { name: weight, label: Weight, widget: number }
