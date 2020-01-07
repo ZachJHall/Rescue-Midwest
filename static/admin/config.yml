@@ -1,0 +1,27 @@
+backend:
+  name: github
+  repo: test-repo
+  commit_messages:
+    create: 'Create {{collection}} “{{slug}}”'
+    update: 'Update {{collection}} “{{slug}}”'
+    delete: 'Delete {{collection}} “{{slug}}”'
+    uploadMedia: '[skip ci] Upload “{{path}}”'
+    deleteMedia: '[skip ci] Delete “{{path}}”'
+
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: dogs
+    label: Dogs
+    folder: dogs
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: name, label: Name }
+      - { name: age, label: Age, widget: number }
+      - { name: weight, label: Weight, widget: number }
+      - { name: gender, label: Gender(Blue if the dog is male), widget: boolean, default: true }
+      - { name: description, label: Description, widget: markdown }
+      # - { name: thumbnail, label: Image, widget: image, default: /blog/images/defaultDog.jpg}
