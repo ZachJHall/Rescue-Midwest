@@ -1,0 +1,11 @@
+.logo1 {
+  margin-top: 75px;
+}
+.content {
+  height: auto;
+  background-color: #e8f8e8; /* second color */
+  background-blend-mode: multiply;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
