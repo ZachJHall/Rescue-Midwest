@@ -206,7 +206,9 @@ li {
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.size{
+  font-size: 10px;
+}
 .App-link {
   color: #61dafb;
 }
