@@ -1,6 +1,7 @@
 import React from "react"
 import "../CSS/header.css"
 import Header from "./header"
+import Footer from "../pages/footer"
 // import "../CSS/base.css"
 import "../CSS/body.css"
 
@@ -13,6 +14,7 @@ const Layout = props => {
       </div>
       <Header />
       <div className="content">{props.children}</div>
+      <Footer />
     </div>
   )
 }
