@@ -24,4 +24,4 @@ collections:
       - { name: weight, label: Weight, widget: number }
       - { name: gender, label: Gender(Blue if the dog is male), widget: boolean, default: true }
       - { name: description, label: Description, widget: markdown }
-      # - { name: thumbnail, label: Image, widget: image, default: /blog/images/defaultDog.jpg}
+      - { name: thumbnail, label: Image, widget: image, default: static/img/sun-mountains-gradient-colorful-art.jpg}
