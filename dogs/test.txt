@@ -1,0 +1,5 @@
+This folder can not be empty or github will delete it.
+
+Add the folder manually and push it.
+
+Then add dog from the cms on the site to fix it.
