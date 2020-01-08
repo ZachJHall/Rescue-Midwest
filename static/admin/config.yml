@@ -22,6 +22,6 @@ collections:
       - { name: name, label: Name }
       - { name: age, label: Age, widget: number }
       - { name: weight, label: Weight, widget: number }
-      - { name: gender, label: Gender(Blue if the dog is male), widget: boolean, default: true }
+      - { name: gender, label: Gender, widget: select, options: [Male, Female] }
       - { name: description, label: Description, widget: markdown }
       - { name: thumbnail, label: Image, widget: image, default: static/img/sun-mountains-gradient-colorful-art.jpg}
