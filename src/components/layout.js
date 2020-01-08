@@ -1,4 +1,5 @@
 import React from "react"
+import "../CSS/header.css"
 import Header from "./header"
 // import "../CSS/base.css"
 import "../CSS/body.css"

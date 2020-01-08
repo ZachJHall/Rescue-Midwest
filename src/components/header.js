@@ -1,6 +1,8 @@
-import React from "react"
-import { Link } from "gatsby"
 import "../CSS/header.css"
+import React from "react"
+
+import { Link } from "gatsby"
+
 import logo from "../images/dogLogo.png"
 import logo2 from "../images/dogLogo.png"
 
@@ -46,6 +48,9 @@ const Header = () => {
             </li>
           </ul>
         </nav>
+        <label htmlFor="nav-toggle" className="nav-toggle-label">
+          <span />
+        </label>
       </div>
     </header>
   )

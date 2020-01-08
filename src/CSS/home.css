@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 .intro {
   display: table;
   height: 100%;
@@ -60,6 +61,202 @@ p {
 .why {
   text-align: left;
 }
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 1500px;
+  text-align: center;
+  min-height: 200px;
+
+  align-items: center;
+}
+p {
+  padding: 10px;
+}
+.test {
+  text-align: justify;
+  width: 1500px;
+}
+
+test:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+@media screen and (max-width: 1500px) {
+  .center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    min-height: 200px;
+
+    align-items: center;
+  }
+}
+
+.X {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 400px;
+  padding: 20px;
+  align-items: stretch;
+  justify-content: space-evenly;
+}
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+li {
+  color: #2c3e50;
+  font-size: 15px;
+  line-height: 30px;
+  text-align: justify;
+  letter-spacing: 1px;
+  font-family: "Montserrat", sans-serif;
+}
+/*SG = style grid*/
+.SG {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.SG .sgLi {
+  min-width: 24%;
+  margin: 2% 0.35%;
+  display: inline-flex;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.SG .sgLi:hover {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
+.SG .box {
+  width: 100%;
+  height: 100vh;
+  padding: 1% 2%;
+  background: #fff;
+  min-height: 200px;
+  max-height: 220px;
+  box-sizing: border-box;
+  min-width: 400px;
+}
+/*Styles */
+.df {
+  list-style-type: disc;
+}
+.space {
+  height: 40px;
+}
+.footer {
+  height: 20%;
+  /* position: fixed; */
+
+  width: 100%;
+  background-color: silver;
+  color: black;
+  text-align: center;
+}
+.color {
+  color: blue;
+}
+.p {
+  margin: 0;
+  padding: 10px;
+}
+.center {
+  display: flex;
+
+  text-align: center;
+}
+.App {
+  text-align: center;
+}
+.Red {
+  background-color: red;
+  text-align: center;
+}
+.Green {
+  background-color: green;
+  text-align: center;
+}
+.Blue {
+  background-color: blue;
+  text-align: center;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+h2 {
+  padding-left: 10px;
+  text-align: left;
+}
+h1 {
+  text-align: center;
+}
+
+li {
+  font-size: 20px;
+  padding-right: 20px;
+}
+
+.Blue {
+  color: blue;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.big {
+  font-size: 50px;
+}
+.test {
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 425px) {
+  .SG .sgLi {
+    width: 100%;
+  }
+}
+.X > * {
+  margin: 5px;
+  flex: 1;
+}
 
 @media (max-width: 800px) {
   .column {
@@ -76,5 +273,11 @@ p {
   }
   .para {
     font-size: 17px;
+  }
+}
+@media screen and (max-width: 800px) {
+  iframe {
+    width: 100vw;
+    height: 1503px;
   }
 }
