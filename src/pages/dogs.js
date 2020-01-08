@@ -111,7 +111,7 @@ const DogsPage = () => {
   return (
     <Layout>
       <div>
-        <h1>Dogs Page</h1>
+        <h1>Dogs available</h1>
 
         <div className="container1">
           {data.allMarkdownRemark.edges.map(edge => {
