@@ -76,7 +76,7 @@ const DogsPage = () => {
                 <p>{edge.node.frontmatter.weight}</p>
                 <p>{edge.node.frontmatter.gender }</p>
                 <p>{edge.node.frontmatter.description}</p>
-                <img src={edge.node.frontmatter.thumbnail}>
+                <img src={edge.node.frontmatter.thumbnail} />
 
 
               </li>
