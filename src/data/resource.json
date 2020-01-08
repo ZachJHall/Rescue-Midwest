@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "category": "Pet Accessories",
+    "link": "https://www.trendyhounds.com/",
+    "name": "Trendy Hounds",
+    "descr": ": Dog collars"
+  },
+
+  {
+    "id": 2,
+    "category": "Animal services",
+    "link": "https://www.ipawstraining.com/",
+    "name": "Infinite Pawsibilities",
+    "descr": " "
+  },
+  {
+    "id": 3,
+    "category": "Pet Nutrition",
+    "link": "https://www.treats-unleashed.com/",
+    "name": "Treats Unleashed",
+    "descr": ""
+  },
+  {
+    "id": 4,
+    "category": "Medical Services",
+    "link": "https://lovefamilyvet.com/",
+    "name": "Wentzville Medical Center",
+    "descr": ""
+  }
+]
