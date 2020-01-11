@@ -1,7 +1,7 @@
 ---
 name: Barnaby
 age: 1
-weight: 11
+weight: 10
 gender: Male
 description: >-
   Barnaby is a young male who is looking for a safe forever home. He is about 10
