@@ -1,7 +1,7 @@
 ---
 name: Scooter
 age: 15
-weight: 2000
+weight: 10
 gender: Male
 description: >-
   Scooter is a 15 year old Corgi/Chihuahua mix. He loves to be with his people
