@@ -63,6 +63,15 @@
   /* Should I remove the underline? The underline makes it clear there is a link there. */
 }
 
-a:hover#zachsName  {
+a:hover#zachsName {
   color: #f0ff03;
+}
+
+#carterName {
+  color: #950740;
+  /* Should I remove the underline? The underline makes it clear there is a link there. */
+}
+
+a:hover#carterName {
+  color: #6c3abd;
 }

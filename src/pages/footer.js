@@ -6,7 +6,24 @@ export const Footer = () => {
   return (
     <footer class="footer-basic-centered">
       <p class="footer-company-motto">
-        Website Designed by Carter Wagner and <a target="_blank" rel="noopener noreferrer" id="zachsName" href="https://www.zachhall.me/">Zach Hall</a>
+        Website Designed by{" "}
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          id="carterName"
+          href="https://cjwagn1.github.io/personalsite/"
+        >
+          Carter Wagner
+        </a>{" "}
+        and{" "}
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          id="zachsName"
+          href="https://www.zachhall.me/"
+        >
+          Zach Hall
+        </a>
       </p>
     </footer>
   )
