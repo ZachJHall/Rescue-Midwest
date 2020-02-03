@@ -1,7 +1,7 @@
 ---
 name: Oliver
 age: 8
-weight: 2000
+weight: 10
 gender: Male
 description: >-
   Oliver is a happy-go-lucky little pup who is young at heart. Even though he is
