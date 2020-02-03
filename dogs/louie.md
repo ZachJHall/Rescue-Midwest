@@ -1,7 +1,7 @@
 ---
 name: Louie
 age: 6
-weight: 2000
+weight: 12
 gender: Male
 description: >-
   Hi! My name is Louie. I am a six (6) year old, male, brown Merle Chihuahua. I

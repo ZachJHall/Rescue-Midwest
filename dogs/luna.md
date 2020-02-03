@@ -1,7 +1,7 @@
 ---
 name: Luna
 age: 11
-weight: 2000
+weight: 12
 gender: Female
 description: >-
   Luna is a gorgeous girl who loves to play and snuggle. She is very protective
