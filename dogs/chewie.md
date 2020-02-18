@@ -13,6 +13,11 @@ description: >-
   hop up beside you on any couch, chair, or bed.  She is not good with cats.
   Chewie is located in Columbia, MO.  We do not ship dogs or adopt long distance
   due to volunteers needing to come out to do a home visit.
+
+
+
+
+  She would do best as an only dog.
 thumbnail: /img/AEC5C395-91BF-4462-A1AE-93EBE2B7DE4C.jpeg
 ---
 
