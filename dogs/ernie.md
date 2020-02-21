@@ -1,7 +1,7 @@
 ---
 name: Ernie
 age: 2
-weight: 9
+weight: 5
 gender: Male
 description: >-
   Ernie is the pampered prince!He is a sweet goofball of a dog at heart, and can
