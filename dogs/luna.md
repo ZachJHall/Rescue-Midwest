@@ -1,6 +1,6 @@
 ---
 name: Luna
-age: 11
+age: 5
 weight: 12
 gender: Female
 description: >-
