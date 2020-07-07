@@ -9,6 +9,6 @@ description: >-
   ready for adoption the 3rd week of July.  I will post more details about her
   when I have them but so far she is such a sweetheart!  She will only be
   adopted out to the St. Louis area.
-thumbnail: /img/43E5415E-918A-46BA-9BD3-5362BA749B0A.jpeg
+thumbnail: /img/913AA431-657F-4A55-9812-519621110497.jpeg
 ---
 
