@@ -11,6 +11,6 @@ description: >-
   goal in life is to make you just as happy as he is! He does well with dogs,
   cats, and kids. TA will only be adopted out to the St. Louis and surrounding
   areas.
-thumbnail: static/img/sun-mountains-gradient-colorful-art.jpg
+thumbnail: /img/C24A202E-C10D-400C-AC92-7FF872618B95.jpeg
 ---
 
