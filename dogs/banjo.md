@@ -4,6 +4,13 @@ age: 2
 weight: 9
 gender: Male
 description: >-
+  ADOPTION PENDING 
+
+
+
+
+
+
   Banjo and Anna are 2 years old and are brother and sister.  They are both
   major cuddle bugs and would love nothing more than to be on a lap.  Anna is
   the more timid one and her brother is always making sure she is okay.   She is
