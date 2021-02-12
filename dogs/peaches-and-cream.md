@@ -5,7 +5,7 @@ weight: 13
 gender: Male
 description: >-
   12 year old Peaches and Cream are a bonded pair (brother and sister) that are
-  very sweet an need to be adopted together.  Their mom is in the hospital long
+  very sweet and need to be adopted together.  Their mom is in the hospital long
   term and will no longer be able to care for them and she is very worried about
   finding them a good home.  The female needs daily eye drops and is partially
   blind. They are both trained to go on pee pads as well as outside.  They are
