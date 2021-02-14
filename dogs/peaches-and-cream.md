@@ -15,6 +15,6 @@ description: >-
   will only be adopted out in the St. Louis region.  Please fill out an
   application if you are interested in being a forever home for these sweet
   dogs. Please email Vicki at vwagner1@icloud.com if you have any questions.
-thumbnail: /img/7DD03166-8EDB-4DA8-83B7-3BBEA592AF0F.png
+thumbnail: /img/D699B74F-7671-479F-9BB5-5AE8A83E4C04.jpeg
 ---
 
