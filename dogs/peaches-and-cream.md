@@ -1,5 +1,5 @@
 ---
-name: ADOPTION PENDING-Peaches and Cream (bonded pair)
+name: Peaches and Cream (bonded pair)
 age: 12
 weight: 13
 gender: Male
