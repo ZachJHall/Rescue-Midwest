@@ -11,7 +11,7 @@ export const Footer = () => {
           target="_blank"
           rel="noopener noreferrer"
           id="carterName"
-          href="https://cjwagn1.github.io/personalsite/"
+          href="https://carterwagner.me"
         >
           Carter Wagner
         </a>{" "}
