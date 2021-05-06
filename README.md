@@ -16,5 +16,5 @@ A web app that allows the volunteer organization to update and display dogs avai
 # Possible plans for the future
 * Partial front-end redesign - We have learned a lot since beginning this project
 * Replace the dog adoption card on [this](www.chihuahuarescuemidwest.org/dogs/) page with something custom
-* Replace the footer
+* Replace the footer  
 The site works really well right now, so this is all contingent on the amount of free time we have to work on this. 
