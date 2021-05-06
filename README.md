@@ -1,4 +1,4 @@
-# [Chihuahua Rescue Midwest](www.chihuahuarescuemidwest.org)
+# [Chihuahua Rescue Midwest](https://www.chihuahuarescuemidwest.org)
 A web app that allows the volunteer organization to update and display dogs available for [adoption](www.chihuahuarescuemidwest.org/dogs/)
 
 # Outcome
