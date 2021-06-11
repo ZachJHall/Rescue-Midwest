@@ -1,7 +1,7 @@
 ---
 name: Lily
-age: 5
-weight: 8
+age: 9
+weight: 9
 gender: Female
 description: >-
   Lilly is great watchdog. She is not a lap dog but she does love to sleep with
