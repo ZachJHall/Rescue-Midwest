@@ -5,7 +5,7 @@ import "../CSS/footer.css"
 export const Footer = () => {
   return (
     <footer class="footer-basic-centered">
-      <p class="footer-company-motto">
+      {/* <p class="footer-company-motto">
         Website Designed by{" "}
         <a
           target="_blank"
@@ -24,7 +24,7 @@ export const Footer = () => {
         >
           Zach Hall
         </a>
-      </p>
+      </p> */}
     </footer>
   )
 }
