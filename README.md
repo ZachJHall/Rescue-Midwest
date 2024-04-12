@@ -1,5 +1,5 @@
-# [Chihuahua Rescue Midwest](https://www.chihuahuarescuemidwest.org)
-A web app that allows the volunteer organization to update and display dogs available for [adoption](https://www.chihuahuarescuemidwest.org/dogs/)
+# Chihuahua Rescue Midwest
+A web app that allows the volunteer organization to update and display dogs available for adoption
 
 # Outcome
 * Decrease in yearly website costs by 96% - This is not a made up number
